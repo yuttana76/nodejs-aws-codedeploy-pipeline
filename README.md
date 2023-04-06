@@ -178,3 +178,9 @@ If you Like the tutorial and you want to support my channel so I will keep relea
 Thanks for your support :)
 
 <a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+# Jest test
+
+https://medium.com/bb-tutorials-and-thoughts/how-to-write-unit-tests-in-nodejs-with-jest-test-library-a201658829c7
+$npm test
+$jest --coverage
